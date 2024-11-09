@@ -53,13 +53,49 @@ This will start the app, and you can access it at [http://localhost:5000](http:/
 
 ## 🧑‍💻 Demonstration 💥
 
-##Input image :
+## Input image :
+
+![](/840366.jpg)
+
 
 
 ## Output image:
+![](/output_image.jpeg)
+
+# Working
+
+![](/1.png)
 
 
-#Working
+![](/2.png)
+
+
+
+![](/3.png)
+
+---
+
+![](/4.png)
+
+
+
+![](/5.png)
+
+---
+
+![](/6.png)
+
+
+
+![](/7.png)
+
+
+
+![](/8.png)
+
+
+
+![](/9.png)
 
 ## 🎉 Contributing:
 Feel free to fork this repo, make changes, and submit a pull request. We welcome improvements and new features! 💡
