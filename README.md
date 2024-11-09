@@ -60,7 +60,7 @@ This will start the app, and you can access it at [http://localhost:5000](http:/
 
 
 ## Output image:
-![](/output_image.jpeg)
+![](/output_image.png)
 
 # Working
 
